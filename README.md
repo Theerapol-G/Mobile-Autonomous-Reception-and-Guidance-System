@@ -15,7 +15,7 @@ Visitors in multi-floor buildings frequently face wayfinding difficulties, while
 
 ![Hardware Components](Media/Component.png)
 
-The robot features a custom aluminum profile chassis (20x20 mm T-slot) with a 3D-printed outer shell, weighing approximately 45 kg[cite: 144].
+The robot features a custom aluminum profile chassis (20x20 mm T-slot) with a 3D-printed outer shell, weighing approximately 45 kg.
 * **Interaction Unit:** NVIDIA Jetson AGX Orin handling AI, LLM, and computer vision.
 * **Navigation Unit:** LattePanda iota managing ROS2 Nav2 and SLAM.
 * **Microcontroller:** Teensy for low-level motor control and sensor reading.
