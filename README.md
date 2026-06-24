@@ -49,6 +49,7 @@ While the core systems are fully operational, the platform is designed for conti
 ## Contributors
 **Robotics and Automation Systems Engineering (RASE), Kasetsart University Sriracha** 
 * Chanaprachpakorn Ngernmo
+* Thanakrit Wongkha
 * Theerapol Guanmuantai
 * Rachen Wanbunma
 
